@@ -2,7 +2,7 @@ Hi there 👋
 
 I am a Web and mobile developer currently working in React,React native.I like to work on different programming projects.
 
-.🔭 I’m currently working on
+.🔭 I’m currently working on 
 
 .#React,
 .#React Redux,
