@@ -25,7 +25,10 @@ I am a Web and mobile developer currently working in React,React native.I like t
 .🌱 I’m currently learning ...
 
 .#mongoDB,#NodeJS
+
 . .👯 I’m looking to collaborate on ... #ReactJS,#ReactNative projects
+
 .💬 Ask me about ...
+
 . .#HTML,#CSS,#Bootstrap,#Javascript,#React js,#React Redux,#Next js,#firebase,#firestore,#Nosql,#Node js,#Express js,#Mongodb,#Databases,#Web development,#Mobile Development.
 
